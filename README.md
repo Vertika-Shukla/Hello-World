@@ -1,4 +1,4 @@
 # Hello-World
-A hello World Project
+A hello World Vertika
 
 Hello, This is Vertika. Microsoft Student Partner at Microsoft. 
